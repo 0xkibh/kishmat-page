@@ -3,8 +3,8 @@
     <div class="flex flex-col ">
         <div class="flex flex-col md:flex-row mx-10 w-[90%] space-x-10">
             <img class="image-k" src="https://raw.githubusercontent.com/0xmatriksh/kishmat-page/master/public/images/kishmat.jpeg" alt="img1">
-            <img class="image-k" src="/images/kishmat_bhattarai.jpeg" alt="img2">
-            <img class="w-[350px]" src="/images/kishmat-03.jpg" alt="img4">
+            <img class="image-k" src="https://raw.githubusercontent.com/0xmatriksh/kishmat-page/master/public/images/kishmat.jpeg" alt="img2">
+            <img class="w-[350px]" src="https://raw.githubusercontent.com/0xmatriksh/kishmat-page/master/public/images/kishmat-03.jpg" alt="img4">
             <img class="image-k" src="https://raw.githubusercontent.com/0xmatriksh/kishmat-page/master/public/images/kishmat.jpeg" alt="img3">
         </div>
     </div>
