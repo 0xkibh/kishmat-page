@@ -7,7 +7,7 @@
         <p>Home Town: Sunwal, Nawalparasi(West)</p>
         <p>Lives In: Lalitpur, Nepal</p>
         <p>Hobby: Sports, Writing</p>
-        <p>Adores watching Virat Kohli play classical cricketing shots</p>
+        <p>Adores playing classical cricketing shots</p>
       </div>
 
 
